@@ -86,7 +86,7 @@ The model performs well with an **R-squared value of 0.89**, indicating that it 
 
 ## Setup Instructions
 
-### Requirements
+### Requirements (Tools)
 
 - Python 3.x
 - Required Python libraries: 
@@ -96,8 +96,4 @@ The model performs well with an **R-squared value of 0.89**, indicating that it 
   - `matplotlib`
   - `seaborn`
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
