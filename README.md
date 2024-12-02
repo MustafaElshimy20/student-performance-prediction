@@ -1,4 +1,4 @@
-Here is a refined version of the README, focusing only on the essential details, such as the tools used (Python libraries), installation instructions, and important points related to the project:
+
 
 ```markdown
 # Predicting Student Performance Based on Study Hours and Attendance
